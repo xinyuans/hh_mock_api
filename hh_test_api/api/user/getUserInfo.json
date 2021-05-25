@@ -1,0 +1,18 @@
+{
+  "method": "get",
+  "parameters": {
+    "id": "required",
+    "name": "required"
+  },
+  "success_result": {
+    "code": 200,
+    "message": "success",
+    "data": {
+      "name_cn": "郭鑫圆",
+      "open_id": "9p24l0x7e6jdnv3r",
+      "email": "xyguo@hillinsight.com",
+      "role": [],
+      "menuPermis": "platform"
+    }
+  }
+}

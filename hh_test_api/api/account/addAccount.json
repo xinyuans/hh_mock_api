@@ -1,0 +1,12 @@
+{
+  "method": "post",
+  "parameters": {
+    "name": "required",
+    "email": "required"
+  },
+  "success_result": {
+    "code": 200,
+    "message": "success",
+    "data": []
+  }
+}
